@@ -1,2 +1,10 @@
 # homochirality
-Repository with codes for homochirality emergence project
+This repository contains codes used for the paper :
+
+It contains N codes :
+
+premier.py
+
+frank_model.cpp
+
+racemic.cpp
