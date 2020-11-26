@@ -8,3 +8,5 @@ premier.py
 frank_model.cpp
 
 racemic.cpp
+
+Contact : gabin.laurent@espci.fr
